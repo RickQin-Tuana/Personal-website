@@ -273,7 +273,7 @@ npm run build
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
-Copyright © 2024 RickQin. All rights reserved.
+Copyright © 2026 RickQ. All rights reserved.
 
 ---
 

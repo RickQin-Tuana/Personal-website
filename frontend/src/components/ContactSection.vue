@@ -203,7 +203,7 @@ useReveal()
 
       <footer class="footer">
         <div class="footer-content">
-          <span class="footer-text">&copy; 2024 xiaoY. All rights reserved.</span>
+          <span class="footer-text">&copy; 2026 RickQ. All rights reserved.</span>
           <a href="#hero" class="back-to-top">BACK TO TOP &uarr;</a>
         </div>
       </footer>
