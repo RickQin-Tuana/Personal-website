@@ -1,0 +1,36 @@
+[ 2026-06-22T10:30:42+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:@vite
+
+[ 2026-06-22T10:51:00+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:@vite
+
+[ 2026-06-22T10:54:27+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+ERR: 无法加载模块:@vite
+
+[ 2026-06-22T20:22:52+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:@vite
+
+[ 2026-06-22T21:11:00+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载模块:@vite
+
+[ 2026-06-22T21:27:13+08:00 ] 127.0.0.1 /@vite/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:@vite
+

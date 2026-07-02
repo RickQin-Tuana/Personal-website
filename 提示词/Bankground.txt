@@ -1,0 +1,112 @@
+# 灯光效果
+
+> 引人注目的灯光效果，包含圆锥渐变、聚光与发光线，带来沉浸式视觉体验。
+
+<component-viewer :component-files="["LampEffect.vue"]" component-id="lamp-effect" config="LampEffectConfig" demo-file="LampEffectDemo.vue">
+<template v-slot:api="">
+
+## API
+
+<table>
+<thead>
+  <tr>
+    <th>
+      属性名
+    </th>
+    
+    <th>
+      类型
+    </th>
+    
+    <th>
+      默认值
+    </th>
+    
+    <th>
+      描述
+    </th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>
+      <code>
+        delay
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        number
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        0.5
+      </code>
+    </td>
+    
+    <td>
+      动画开始前的延迟（秒）。
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <code>
+        duration
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        number
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        0.8
+      </code>
+    </td>
+    
+    <td>
+      动画持续时间（秒）。
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <code>
+        class
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        string
+      </code>
+    </td>
+    
+    <td>
+      <code>
+        ""
+      </code>
+    </td>
+    
+    <td>
+      用于自定义样式的额外 CSS 类。
+    </td>
+  </tr>
+</tbody>
+</table>
+</template>
+
+<template v-slot:credits="">
+
+- 移植自 [Aceternity UI](https://ui.aceternity.com/components/lamp-effect)
+
+</template>
+</component-viewer>
