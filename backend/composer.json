@@ -11,9 +11,6 @@
             "email": "liu21st@gmail.com"
         }
     ],
-    "require": {
-        "php": "^7.4 || ^8.0"
-    },
     "minimum-stability": "dev",
     "scripts": {
         "start": "php -S 0.0.0.0:8080 -t Public"
