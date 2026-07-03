@@ -5,7 +5,7 @@ import axios from 'axios'
  * 开发环境下通过 Vite 代理转发到 PHP 后端（见 vite.config.ts）
  */
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/api',
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://personal-website-production-63c7.up.railway.app',
   timeout: 15000,
   headers: {
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
