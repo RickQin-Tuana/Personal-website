@@ -2,7 +2,8 @@ import axios from 'axios'
 
 
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://personal-website-production-63c7.up.railway.app',
+  // baseURL: import.meta.env.VITE_API_BASE_URL || 'https://personal-website-production-63c7.up.railway.app',
+  baseURL: 'https://personal-website-production-63c7.up.railway.app',  // 直接硬编码
   timeout: 15000,
   headers: {
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
